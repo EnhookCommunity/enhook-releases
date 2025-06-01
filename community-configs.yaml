@@ -1,5 +1,6 @@
 configs:
-  - name: Monit
-    id: monit
+  - id: monit
+    name: Monit
+    yaml: community-configs/monit.yaml
+    description: "用于展示各种信息的桌面小组件"
     homepage: "https://github.com/fzf404/Monit"
-    yaml_path: community-configs/monit.yaml
