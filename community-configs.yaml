@@ -1,0 +1,5 @@
+configs:
+  - name: Monit
+    id: monit
+    homepage: "https://github.com/fzf404/Monit"
+    yaml_path: community-configs/monit.yaml

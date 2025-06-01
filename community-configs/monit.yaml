@@ -1,0 +1,13 @@
+name: Monit
+versions:
+  - version: "0.8.1"
+    exe: "/Monit.exe"
+    config_files:
+      - "%AppData%/monit/config.json"
+    notes: ""
+
+  - version: "any"
+    exe: "/Monit.exe"
+    config_files:
+      - "%AppData%/monit/config.json"
+    notes: ""
